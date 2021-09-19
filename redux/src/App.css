@@ -1,0 +1,14 @@
+.App {
+    text-align: center;
+}
+
+.counter {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+}
+
+.item {
+    width: 50px;
+}
